@@ -1,0 +1,34 @@
+{
+  "name": "libsqlite",
+  "version": "1.0.0",
+  "description": "Legacy SQLITE library for browser",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/libsqlite.git"
+  },
+  "keywords": [
+    "SQLite"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/libsqlite/issues"
+  },
+  "homepage": "https://github.com/ornorm/libsqlite#readme",
+  "dependencies": {
+    "conflib": "^1.0.0",
+    "eventslib": "^1.0.0",
+    "hjs-collection": "^1.0.0",
+    "hjs-content": "^1.0.0",
+    "hjs-core": "^1.0.0",
+    "hjs-io": "^1.0.0",
+    "libhttp": "^1.0.1"
+  }
+}
